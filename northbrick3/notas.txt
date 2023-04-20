@@ -1,0 +1,4 @@
+
+//NOTAS 
+
+para leer algo de la url usamos getParameter
